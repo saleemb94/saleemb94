@@ -15,6 +15,7 @@ AI Engineer in Amman, Jordan. I build document intelligence systems: pipelines t
 | --- | --- |
 | [Research-RAG](https://github.com/saleemb94/Research-RAG) | Fully offline, section-aware RAG over research papers. MRR@10 0.77 and Recall@10 0.69, measured on hand-built golden sets (138 graded questions, 93 labeled gold passages). |
 | [Superstore Sales Time Series Analysis](https://github.com/saleemb94/Superstore-Sales-Time-Series-Analysis) | Retail KPI and trend analysis with Pandas: cleaning, merging three datasets, and weekly to yearly time series. |
+| [Employee Performance Tracking System](https://github.com/saleemb94/Employee-Performance-Tracking-System) | PostgreSQL database with a Python GUI for tracking tenders, installations, and sales employee performance. Course project with fictional data. |
 
 ## Background
 
